@@ -24,7 +24,7 @@
 <div align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=Elaminebendaas&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="profile trophies" />
     <br />
-    <img src="https://github-readme-stats.vercel.app/api?username=Elaminebendaas&show_icons=true&hide_border=true" alt="Elamine's GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=Elaminebendaas&show_icons=true&hide_border=true&theme=dark" alt="Elamine's GitHub Stats">
     <br />
     <img src="https://visitor-badge.laobi.icu/badge?page_id=Elaminebendaas.Elaminebendaas" alt="visitors">
 </div>
