@@ -19,5 +19,5 @@
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-![El-Amine's GitHub stats]https://github-stats-alpha.vercel.app/api?username={Elaminebendaas}&cc=000&tc=fff&ic=fff&bc=000]
+![El-Amine's GitHub stats](https://github-stats-alpha.vercel.app/api?username={Elaminebendaas}&cc=000&tc=fff&ic=fff&bc=000)]
 
