@@ -19,5 +19,12 @@
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-![El-Amine's GitHub stats](https://github-stats-alpha.vercel.app/api?username={Elaminebendaas}&cc=000&tc=fff&ic=fff&bc=000)]
+## 📈 Stats
 
+<div align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=Elaminebendaas&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="profile trophies" />
+    <br />
+    <img src="https://github-readme-stats.vercel.app/api?username=Elaminebendaas&show_icons=true&hide_border=true" alt="Elamine's GitHub Stats">
+    <br />
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=Elaminebendaas.Elaminebendaas" alt="visitors">
+</div>
