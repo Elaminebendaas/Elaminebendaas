@@ -6,8 +6,18 @@
 
 👨‍💻 I enjoy creating projects and programming in because it's a forever changing/evolving space which keeps me learning forever.
 
-🎸 Outside the world of tech too, I enjoy pushing myself to develop new skills. My hobbies range from **working out**, **running**, **sketching**, and **touch typing** to some whacky ones like **writing with my left hand**.
+🎸 Outside the world of tech too, I enjoy pushing myself to develop new skills. My hobbies range from **working out**, **running**, **self-improvement**.
 
 📚 I also love reading books on **personal development**. My favorite ones are **The Meditations** by _Marcus Aurelius_ and **Atomic Habits** by _James Clear_ and many other books.
 
 ✈️ I love **traveling** too. I have been on trips to **Portugal**, **Spain, Algeria, France, Cuba** in the past years.
+
+## 🛠️ Skills
+
+### Languages
+![typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elaminebendaas)](https://github.com/Elaminebendaas/github-readme-stats)
+
