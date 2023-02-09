@@ -8,7 +8,7 @@
 
 🎸 Outside the world of tech too, I enjoy pushing myself to develop new skills. My hobbies range from **working out**, **running**, **self-improvement**.
 
-📚 I also love reading books on **personal development**. My favorite ones are **The Meditations** by _Marcus Aurelius_ and **Atomic Habits** by _James Clear_ and many other books.
+📚 I also love reading books on **philosophy** and **personal development**. My favorite ones are **The Meditations** by _Marcus Aurelius_ and **Atomic Habits** by _James Clear_ and many other books.
 
 ✈️ I love **traveling** too. I have been on trips to **Portugal**, **Spain, Algeria, France, Cuba** in the past years.
 
